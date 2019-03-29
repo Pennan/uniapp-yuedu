@@ -21,7 +21,7 @@ Vue.prototype.checkLogin  = function(backpage, backtype){
 	return [SUID, SRAND, SNAME, SFACE];
 }
 var APITOKEN  = 'api2019';
-var STATIC_SERVER = 'http://192.168.200.230/';
+var STATIC_SERVER = 'http://localhost/';
 Vue.prototype.apiServer = STATIC_SERVER + 'index.php?token='+APITOKEN+'&c=';
 Vue.prototype.staticServer = STATIC_SERVER;
 App.mpType = 'app'
