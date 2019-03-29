@@ -1,0 +1,1 @@
+<template name="76eb9b1e"><view class="_view 76eb9b1e"><button type="primary" open-type="getUserInfo" bindgetuserinfo="handleProxy" data-eventid="{{'76eb9b1e-0'}}" data-comkey="{{$k}}" class="_button 76eb9b1e">使用微信登录</button></view></template>
